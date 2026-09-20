@@ -1,4 +1,3 @@
-
 Hi there, I'm Ashwin! 👋 Frontend Developer 
 Raipur, Chhattisgarh 🇮🇳 🚀 About Me 🌱 Currently learning JavaScript & React 💻 Building projects to sharpen my Frontend skills
 🎯 Goal: Land my first Frontend Developer internship ⚡ Fun fact: I debug with console.log and I'm proud of it 😄 🛠 Skills HTML5 CSS3 JavaScript React VS Code Git📂 
